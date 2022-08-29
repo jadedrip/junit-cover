@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jadedrip.junitcover.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jadedrip.junitcover.MyBundle
 
 class MyApplicationService {
 
